@@ -8,6 +8,8 @@ is never the answer.
 
 - Four years of custom feature work and API integrations on a PHP/CodeIgniter
   ecommerce platform, plus the merges that keep client installations upgradable
+- Keep those installations standing: Cloudflare WAF and per-client security rules,
+  traffic investigations, SSL and SSH debugging when a client's shop starts misbehaving
 - Lead the technical support engineering team, which means I spend as much time
   debugging other people's production issues as I do writing my own code
 - Turn vague business requirements into things that actually ship
@@ -21,14 +23,15 @@ also how I'm learning Laravel properly, rather than from tutorials.
 ### Stack
 
 - **At work:** PHP · CodeIgniter · MySQL · Vue.js · REST APIs
+- **In production:** Linux · Cloudflare · SSL/TLS · SSH
 - **Building with:** Laravel · Blade · TypeScript
 - **Learning:** Docker · Kubernetes · cloud infrastructure
 
 ### Where I'm heading
 
-Deeper into infrastructure. I came up through the application layer, and I want to
-understand the whole path from commit to production, not just the part that runs
-inside a request cycle.
+Deeper into infrastructure. I already own part of the edge — firewall rules,
+certificates, traffic incidents — and I want the rest of the path: containers,
+orchestration, and what happens between a commit and a running production system.
 
 ### Before software
 
