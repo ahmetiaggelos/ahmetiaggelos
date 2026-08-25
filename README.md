@@ -14,9 +14,9 @@ is never the answer.
 
 ### Stack
 
-**Backend:** PHP · Laravel · MySQL · REST APIs
-**Frontend:** Vue.js · JavaScript · TypeScript · Blade
-**Tooling:** Git · Docker · Linux
+- **Backend:** PHP · Laravel · MySQL · REST APIs
+- **Frontend:** Vue.js · JavaScript · TypeScript · Blade
+- **Tooling:** Git · Docker · Linux
 
 ### Where I'm heading
 
