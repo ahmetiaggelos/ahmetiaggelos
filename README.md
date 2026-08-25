@@ -41,6 +41,6 @@ ten-year-old turns out to be good preparation for explaining a regression to a c
 ### Elsewhere
 
 - LinkedIn — [aggelos-ahmeti](https://www.linkedin.com/in/aggelos-ahmeti)
-- X — [@VlAggelos](https://twitter.com/VlAggelos)
+
 
 Based in Patra, Greece.
