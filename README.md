@@ -1,7 +1,7 @@
 ## Hi, I'm Aggelos
 
 Software engineer at Advisable, building custom ecommerce platforms.Every client
-is a different edge case,e and "just install the plugin" is never the answer.
+is a different edge case, and "just install the plugin" is never the answer.
 
 ### What I do
 
