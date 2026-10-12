@@ -15,9 +15,8 @@ is a different edge case, and "just install the plugin" is never the answer.
 
 ### What I'm building
 
-**SupportMind** — a support desk in Laravel. Leading a support team showed me exactly
-where the existing tools get in the way, so I'm building the one I want to use. It's
-also how I'm learning Laravel properly, rather than from tutorials.
+**SupportMind**  Developing a Laravel helpdesk application with role-based access and automated tests. LLM-assisted ticket triage under evaluation.
+Leading a support team showed me exactly where the existing tools get in the way, so I'm building the one I want to use. *Private repo.*
 
 ### Stack
 
@@ -28,8 +27,8 @@ also how I'm learning Laravel properly, rather than from tutorials.
 
 ### Where I'm heading
 
-Deeper into infrastructure. I already own part of the edge — firewall rules,
-certificates, traffic incidents — and I want the rest of the path: containers,
+Deeper into infrastructure. I already own part of the edge  firewall rules,
+certificates, traffic incidents  and I want the rest of the path: containers,
 orchestration, and what happens between a commit and a running production system.
 
 ### Before software
